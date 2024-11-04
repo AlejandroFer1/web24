@@ -358,5 +358,9 @@ h1 {
     color: white;
 }
 .botona{
-    background-color: rgb(160, 7, 160);
+    background-color: rgb(14, 65, 231);
+}
+.tamaño{
+    width: 20%;
+    height: 20%;
 }

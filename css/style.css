@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: white;
+    background-color: #ebcc36;
 }
 
 .enlacesb {
@@ -171,7 +171,7 @@ a {
 }
 
 .bg-azul-o {
-    background-color: rgb(0 157 222);
+    background-color: rgb(76, 219, 152);
 }
 
 .bg-azul-c {
@@ -271,7 +271,7 @@ h1 {
 }
 
 .listai {
-    list-style-image: url(/img/pngegg.png);
+    list-style-image: url(img/pngegg.png);
 }
 
 .listad {
@@ -290,6 +290,9 @@ h1 {
     }
     .pari tr:nth-child(even) {
     background-color:rgb(196, 29, 182);
+    }
+    .letrat{
+        color: #007776;
     }
 .lm{
    background-color: #64b4ef;
@@ -322,6 +325,7 @@ h1 {
     background-color: #eff0c8;
 }
 .tablah{
+    background-color: white;
     margin: 0 auto;
     text-align: center;
 }
@@ -360,18 +364,8 @@ h1 {
 .botona{
     background-color: rgb(231, 14, 231);
 }
-.tamaño{
-    width: 40%;
-    height: 40%;
-}
-.tamaño1{
-    width: 28%;
-    height: 28%;
-}
-.tamaño2{
-    width: 30%;
-    height: 40%;
-}
+
+
 
 .vid{
     margin-left: 10%;
@@ -379,9 +373,17 @@ h1 {
     width: 80%;
     height: 80%;
 }
-.fot {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+.imgm{
+    width: 80%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+}
+.fot{ 
+    margin: 0 auto;
+    float:right;
+    width: 33%;
     
+}
+.centro{
+    margin: 0 auto;
 }

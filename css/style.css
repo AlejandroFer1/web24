@@ -271,7 +271,7 @@ h1 {
 }
 
 .listai {
-    list-style-image: url(img/pngegg.png);
+    list-style-image: url("../img/pngegg.png");
 }
 
 .listad {
